@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<src>
 <project>
-	<src dest="../" type="git" 
+	<src dest="../../work/shentegration" type="git" 
 	uri="git://github.com/denuno/shentegration.git" 
 	user="guest" password="guess" />
 </project>
@@ -9,3 +10,4 @@
 	uri="http://svn.getrailo.org/svn/railotags/cfantrunner/trunk/src/tag/antrunner.cfc" 
 	user="guest" password="guess" />
 </sources>
+</src>
