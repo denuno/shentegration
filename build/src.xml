@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+	<src dest="../" type="git" 
+	uri="git://github.com/denuno/shentegration.git" 
+	user="guest" password="guess" />
+</project>
+<sources>
+	<src dest="cfantrunner/" type="svn" 
+	uri="http://svn.getrailo.org/svn/railotags/cfantrunner/trunk/src/tag/antrunner.cfc" 
+	user="guest" password="guess" />
+</sources>

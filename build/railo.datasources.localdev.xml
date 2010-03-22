@@ -1,0 +1,10 @@
+<data-sources preserve-single-quote="yes">
+				<data-source allow="511" blob="false" clob="false"
+				class="org.h2.Driver"
+				connectionTimeout="1" 
+				custom="path=.%2FWEB-INF%2Frailo%2Fshentegration_db%2F&amp;mode=MySQL" 
+				database="shentegration"
+				dsn="jdbc:h2:{path}{database};MODE={mode}" 
+				host="" name="shentegration" username="sa"
+			/>
+</data-sources>
